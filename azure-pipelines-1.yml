@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
- agent: mycomputeragent
+ agent: DESKTOP-S90SQ2R
 
 steps:
 - script: echo Hello, world!
