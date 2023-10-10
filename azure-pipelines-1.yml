@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
- agent: DESKTOP-S90SQ2R
+ agent: pipeline-agent
 
 steps:
 - script: echo Hello, world!
