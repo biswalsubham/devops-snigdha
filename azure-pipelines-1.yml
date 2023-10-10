@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
- agent: pipeline-agent
+pool: Newpool
 
 steps:
 - script: echo Hello, world!
